@@ -1,4 +1,5 @@
-![](images/banner)
+![c](images/banner)
+
 # ARIF
 ```javascript
 const paf = require('./arif/arif-v1.js');
