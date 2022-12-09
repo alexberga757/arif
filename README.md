@@ -60,7 +60,7 @@ output:
 operations: get integers from properties
 
 # current versions
-* v1-sv [Open]('arif/arif-v1.js')
+* v1-sv [Open](arif/arif-v1.js)
 
 (sv:sketchy version)
 
