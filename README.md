@@ -1,4 +1,4 @@
-![c](images/banner)
+![c](banner/banner)
 
 # ARIF
 ```javascript
