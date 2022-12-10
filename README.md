@@ -60,7 +60,8 @@ output:
 operations: get integers from properties
 
 # current versions
-* v1-sv [Open](arif/arif-v1.js)
+* v1-SV [Open](arif/arif-v1.js)
+* v1-CSEd [Open](https://github.com/alexberga757/arif.net)
 
 (sv:sketchy version)
 
